@@ -1,5 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Anshuman Singh
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Anshuman Singh
+
 <div align="center">
   <img src="https://img.shields.io/badge/Location-Boston,%20MA-4A154B?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
   <a href="mailto:singh.anshuma@northeastern.edu">
@@ -85,15 +87,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshumansinghneu&theme=tokyonight&hide_border=true)](https://github.com/anshumansinghneu)
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=anshumansinghneu&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
-  <br>
   <a href="https://github.com/anshumansinghneu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshumansinghneu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumansinghneu&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshumansinghneu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=anshumansinghneu&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true" alt="GitHub Trophy"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshumansinghneu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
   </a>
   <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumansinghneu&layout=compact&theme=tokyonight&hide_border=true&card_width=300" alt="Most Used Languages"/>
   <img src="https://komarev.com/ghpvc/?username=anshumansinghneu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </div>
 
@@ -101,4 +101,10 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+transform+data+together!" alt="Typing SVG"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/svg/github-contributions-snake.svg" alt="github contribution snake animation"/>
 </div>
