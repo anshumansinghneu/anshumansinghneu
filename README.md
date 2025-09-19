@@ -1,23 +1,33 @@
-# <img [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/anshumansinghneu)
-
-## <img src="https://media.giphy.com/media/SvKWJ14VENi3bMcHVf/giphy.gif" width="40"> Analytics Dashboard
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm Anshuman Singh
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshumansinghneu&theme=tokyonight&hide_border=true)](https://github.com/anshumansinghneu)
-
-<img src="https://github-profile-trophy.vercel.app/?username=anshumansinghneu&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
-
-<a href="https://github.com/anshumansinghneu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshumansinghneu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumansinghneu&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Analytics+Engineer;Master's+Student+@+Northeastern;Building+Data+Pipelines+%26+Solutions" alt="Typing SVG" />
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Mes://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Anshuman Singh
+## 🎓 Education
 
 <div align="center">
+  <img src="https://img.shields.io/badge/NORTHEASTERN-UNIVERSITY-DD2C00?style=for-the-badge" alt="Northeastern University"/>
+
+**Master of Science in Data Analytics Engineering**
+<br>
+_September 2025 - Present_
+
+  <details>
+    <summary>🎯 Key Focus Areas</summary>
+    <br>
+
+    • Advanced Data Engineering
+    • Big Data Systems & Architecture
+    • Cloud Computing & Infrastructure
+    • Statistical Analysis & Machine Learning
+    • Data Visualization & Communication
+
+  </details>
+</div>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Data+Analytics+Engineer;Master's+Student+@+Northeastern;Passionate+about+Big+Data+%26+Analytics" alt="Typing SVG" />
 </div>
 
