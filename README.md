@@ -39,7 +39,7 @@ class DataEngineer:
         self.role = "Data Analytics Engineer"
         self.education = "MS Data Analytics Engineering @ Northeastern"
         self.passion = ["Data Engineering", "Big Data Analytics", "Cloud Architecture"]
-    
+
     def mission(self):
         return "Transforming complex data into actionable insights through scalable solutions"
 
@@ -50,20 +50,20 @@ me = DataEngineer()
 
 <div align="center">
   <img src="https://img.shields.io/badge/Northeastern-University-DD2C00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAABZElEQVR42mJsYGBgYGBg+A8EjAwMjAwMjIAAAAD//2JkYGD4z8DwnwECGBn/MzIyMgAAAAD//2JkZGQAqQIpZGRkYGRkBAAAAP//YmRkZGQEOhXMZWRkBAAAAP//YmRkZGRkZGRgZGRkZGRkBAAAAP//YmRkZGRkZGRkZGRkZGRkBAAAAP//YmRkZGRkZGRkZGRkZGRkBAAAAAD//w==" />
-  
-  **Master of Science in Data Analytics Engineering**
-  <br>*September 2025 - Present*
-  
+
+**Master of Science in Data Analytics Engineering**
+<br>_September 2025 - Present_
+
   <details>
     <summary>🎯 Key Focus Areas</summary>
     <br>
-    
+
     - Advanced Data Engineering
     - Big Data Systems & Architecture
     - Cloud Computing & Infrastructure
     - Statistical Analysis & Machine Learning
     - Data Visualization & Communication
-    
+
   </details>
 </div>
 
@@ -72,28 +72,33 @@ me = DataEngineer()
 <div align="center">
 
 ### 🔧 Languages & Core Tools
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### ☁️ Big Data & Cloud Platforms
+
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### 🛠️ Data Engineering Tools
+
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
 
 ### 📊 Analytics & Visualization
+
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ### 🔄 Version Control & CI/CD
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
